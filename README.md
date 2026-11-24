@@ -1,12 +1,9 @@
-# Olá, eu sou o Caio Soares 👋
+# Olá, eu sou o Caio
 
-Estudante de **Análise e Desenvolvimento de Sistemas (UNINTER)** com foco em **Desenvolvimento Back-end**, construindo APIs RESTful robustas e aplicações web completas com **C# (.NET)** e **Java (Spring Boot)**. 
-
-Buscando minha **primeira oportunidade de estágio em Desenvolvimento de Software** para aplicar meus conhecimentos em arquitetura limpa, modelagem de dados e resolução de problemas reais.
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### Tecnologias & Ferramentas
 
 **Back-end & Arquitetura**
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
@@ -29,17 +26,17 @@ Buscando minha **primeira oportunidade de estágio em Desenvolvimento de Softwar
 
 ---
 
-### 🚀 Projetos em Destaque
+### Projetos em Destaque
 
-* **[Scholar Webservice Portfolio](https://github.com/caioSoares-wa/scholar-webservice-portfolio)** — Sistema full-stack de gerenciamento escolar desenvolvido em **C# / ASP.NET Core** seguindo princípios de **Domain-Driven Design (DDD)**, integrado a um front-end em **Blazor**. Conta com autenticação via hash de senhas, mapeamento seguro com DTOs e persistência com Entity Framework Core.
-* **[Simple CRUD - College Work](https://github.com/caioSoares-wa/simple-crud-uninter-college-work)** — API RESTful desenvolvida em **Java com Spring Boot**, **Spring Data JPA** e **MySQL** para gerenciamento completo de clientes, produtos e pedidos, aplicando boas práticas de validação e estruturação em camadas.
-* **[Portfólio Pessoal](https://caioSoares-wa.github.io)** — Página web responsiva desenvolvida com **HTML, CSS e JavaScript puro**, reunindo minha trajetória acadêmica, projetos técnicos e canais de contato. *(Confira o código-fonte no meu perfil!)*
+* **[Scholar Webservice Portfolio](https://github.com/caioSoares-wa/scholar-webservice-portfolio)** — Sistema full-stack de gerenciamento escolar desenvolvido em C# / ASP.NET Core seguindo princípios de Domain-Driven Design (DDD), integrado a um front-end em Blazor. Conta com autenticação via hash de senhas, mapeamento seguro com DTOs e persistência com Entity Framework Core. (Ainda incompleto, mas é meu projeto mais técnico)
+* **[Simple CRUD - College Work](https://github.com/caioSoares-wa/simple-crud-uninter-college-work)** — API RESTful desenvolvida em *ava com Spring Boot, Spring Data JPA e MySQL para gerenciamento completo de clientes, produtos e pedidos, aplicando boas práticas de validação e estruturação em camadas.
+* **[Portfólio Pessoal](https://caioSoares-wa.github.io)** — Página web responsiva desenvolvida com HTML, CSS e JavaScript puro com meus projetos técnicos e canais de contato. 
 
 ---
 
 ### 📫 Onde me encontrar
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://caioSoares-wa.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO-AQUI)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/caiosh1n)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL-AQUI@gmail.com)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://caioSoares-wa.github.io) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-wanderson-11a36a241/) 
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/caiosh1n) 
+
