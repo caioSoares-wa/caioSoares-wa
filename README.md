@@ -1,7 +1,6 @@
 # Olá, eu sou o Caio
 
 
----
 
 ### Tecnologias & Ferramentas
 
