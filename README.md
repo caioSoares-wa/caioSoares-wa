@@ -27,7 +27,7 @@
 ### Projetos em Destaque
 
 * **[Scholar Webservice Portfolio](https://github.com/caioSoares-wa/scholar-webservice-portfolio)** — Sistema full-stack de gerenciamento escolar desenvolvido em C# / ASP.NET Core seguindo princípios de Domain-Driven Design (DDD), integrado a um front-end em Blazor. Conta com autenticação via hash de senhas, mapeamento seguro com DTOs e persistência com Entity Framework Core. (Ainda incompleto, mas é meu projeto mais técnico)
-* **[Simple CRUD - College Work](https://github.com/caioSoares-wa/simple-crud-uninter-college-work)** — API RESTful desenvolvida em *ava com Spring Boot, Spring Data JPA e MySQL para gerenciamento completo de clientes, produtos e pedidos, aplicando boas práticas de validação e estruturação em camadas.
+* **[Simple CRUD - College Work](https://github.com/caioSoares-wa/simple-crud-uninter-college-work)** — API RESTful desenvolvida em Java com Spring Boot, Spring Data JPA e MySQL para gerenciamento completo de clientes, produtos e pedidos, aplicando boas práticas de validação e estruturação em camadas.
 * **[Portfólio Pessoal](https://caiosoares-wa.github.io/portfolio/index.html)** — Página web responsiva desenvolvida com HTML, CSS e JavaScript puro com meus projetos técnicos e canais de contato. 
 
 ---
